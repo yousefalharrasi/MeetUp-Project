@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android2Project</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="createAccount"><u>Create Account</u></string>
+    <string name="login"><u>Already a member? Login</u></string>
+</resources>
